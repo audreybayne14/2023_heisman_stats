@@ -32,7 +32,7 @@ predicted_winner = player_names[predicted_winner_index]
 
 # print results
 print("Predicted Heisman winner based on non-Heisman stats:", predicted_winner)
-print("Actual Heisman winner:", player_names[0])  # Assuming the actual winner is the first player in the list
+print("Actual Heisman winner:", player_names[0])
 
 # create bar plot for actual Heisman rankings
 plt.figure(figsize=(10, 6))
