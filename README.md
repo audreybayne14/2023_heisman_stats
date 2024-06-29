@@ -1,4 +1,4 @@
-# 2023_heisman_stats
+# 2023 Heisman Predictor
 
 When Jayden Daniels was announced as the 2023 Heisman trophy winner, there was blacklash from CFB fans over whether or not he deserved to be the winner. Headlines included:
   "CFB Fans Sound Off on Jalen Milroe, Jordan Travis Snubs as Heisman Trophy Finalists" (Bleacher Report)
